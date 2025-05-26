@@ -1,0 +1,28 @@
+[
+    {
+      "game": "Bonoloto",
+      "image": "https://your-server.com/ads/ad-bonoloto.png",
+      "url": "https://vendor-loteria.com/bonoloto-promo"
+    },
+    {
+      "game": "Euromillones",
+      "image": "https://your-server.com/ads/ad-euromillones.png",
+      "url": "https://partnerpromo.eu/promo-code"
+    },
+    {
+      "game": "La Primitiva",
+      "image": "https://your-server.com/ads/ad-primitiva.png",
+      "url": "https://example.com/primitiva-deal"
+    },
+    {
+      "game": "El Gordo",
+      "image": "https://your-server.com/ads/ad-gordo.png",
+      "url": "https://gordopromo.com"
+    },
+    {
+      "game": "Lotería Nacional",
+      "image": "https://your-server.com/ads/ad-nacional.png",
+      "url": "https://nacionalpartner.es"
+    }
+  ]
+  
