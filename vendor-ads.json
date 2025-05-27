@@ -1,28 +1,27 @@
 [
   {
     "game": "Bonoloto",
-    "image": "http://192.168.1.22:3001/assets/ad-bonoloto.png",
+    "image": "https://via.placeholder.com/728x90.png?text=Bonoloto+Ad",
     "url": "https://vendor-loteria.com/bonoloto-promo"
   },
   {
     "game": "Euromillones",
-    "image": "http://192.168.1.22:3001/assets/ad-euromillones.png",
+    "image": "https://via.placeholder.com/728x90.png?text=Euromillones+Ad",
     "url": "https://partnerpromo.eu/promo-code"
   },
   {
     "game": "La Primitiva",
-    "image": "http://192.168.1.22:3001/assets/ad-primitiva.png",
+    "image": "https://via.placeholder.com/728x90.png?text=Primitiva+Ad",
     "url": "https://example.com/primitiva-deal"
   },
   {
     "game": "El Gordo",
-    "image": "http://192.168.1.22:3001/assets/ad-gordo.png",
+    "image": "https://via.placeholder.com/728x90.png?text=El+Gordo+Ad",
     "url": "https://gordopromo.com"
   },
   {
     "game": "Lotería Nacional",
-    "image": "http://192.168.1.22:3001/assets/ad-nacional.png",
+    "image": "https://via.placeholder.com/728x90.png?text=Nacional+Ad",
     "url": "https://nacionalpartner.es"
   }
 ]
-
