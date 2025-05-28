@@ -1,22 +1,48 @@
 [
   {
     "game": "BonoLoto",
-    "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/gen-ad-bonoloto.png"
+    "images": [
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/bonoloto-ad.png"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/bonoloto-ad_2.jpeg"
+      }
+    ]
   },
   {
     "game": "La Primitiva",
-    "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/gen-ad-primitiva.png"
+    "images": [
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/primitiva-ad.png"
+      }
+    ]
   },
   {
     "game": "Euromillones",
-    "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/gen-ad-euromillones.png"
+    "images": [
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/euromillones-ad.png"
+      }
+    ]
   },
   {
     "game": "El Gordo",
-    "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/gen-ad-gordo.png"
+    "images": [
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/gordo-ad.png"
+      }
+    ]
   },
   {
     "game": "Lotería Nacional",
-    "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/gen-ad-nacional.png"
+    "images": [
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/nacional-ad.png"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/claudioErnesto1/loteria-inteligente-ads/main/ads/nacional-ad_3.png"
+      }
+    ]
   }
 ]
